@@ -114,7 +114,7 @@ The Coq definitions and proofs are located in the `coq` directory. The code loca
 - Secton 5, Lemma 4 (Update Dependency Transitivity): `KVSAlg2.v`, `Lemma cause_dep`
 - Secton 5, Lemma 5: `KVSAlg2.v`, `Lemma cause_received_received`
 - Secton 5, Lemma 6 (CauseCond): `KVSAlg2.v`, `Lemma cause_rec`
-- Section 10, Figure 16 (Algorithm 3): `KVSAlg3.v`, `Module Type KVSAlg3`
+- Section 10, Figure 15 (Algorithm 3): `KVSAlg3.v`, `Module Type KVSAlg3`
 - Section 10, Theorem 5: `KVSAlg3.v`, `Module KVSAlg3CauseObl (SyntaxArg: SyntaxPar) <: CauseObl KVSAlg3 SyntaxArg`
 - Secton 5, Corollary 3: `KVSAlg3.v`, `Lemma CausallyConsistent`
 - Section 5, Lemma 7 (Clock Monotonicity): `KVSAlg3.v`, `Lemma cause_clock`
